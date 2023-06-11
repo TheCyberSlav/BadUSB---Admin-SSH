@@ -1,7 +1,6 @@
 # BadUSB---Admin-SSH
 BadUSB - Admin &amp; SSH
 
-
 #include<Keyboard.h>
 #define KEY_DELAY 50 //delay between keystrokes for slow computers
 
